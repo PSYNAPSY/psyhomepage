@@ -1,0 +1,33 @@
+body{
+    overflow-y:hidden;
+    zoom: 67%;
+    width: 91%;
+    -ms-zoom-animation: default;
+}
+.a1{
+    text-decoration: none;
+    color: yellow;
+    font-size: 30px;
+}
+.a2{
+    text-decoration: none;
+    color: yellow;
+    font-size: 30px;
+}
+.a1:hover{
+    color: red;
+}
+.a2:hover{
+    color: red;
+}
+.a_null{
+    visibility:collapse;
+}
+.container{
+    right: 0%;
+    width: 9%;
+    height: 100%;
+    background-color: beige;
+    right: 0;
+    position: fixed;
+}
