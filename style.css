@@ -3,6 +3,7 @@ body{
     zoom: 67%;
     width: 91%;
     -ms-zoom-animation: default;
+    position: fixed;
 }
 .a1{
     text-decoration: none;
